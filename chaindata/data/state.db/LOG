@@ -1,0 +1,11 @@
+=============== Apr 16, 2023 (CEST) ===============
+19:46:15.801211 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:46:15.845510 db@open opening
+19:46:15.855666 version@stat F·[] S·0B[] Sc·[]
+19:46:15.883098 db@janitor F·2 G·0
+19:46:15.883450 db@open done T·37.560286ms
+20:58:41.759959 memdb@flush N·16521 S·3MiB
+20:58:41.901076 memdb@flush created L0@3 N·16521 S·1MiB "abc..y:1,v14":"val..999,v3999"
+20:58:41.901477 version@stat F·[1] S·1MiB[1MiB] Sc·[0.25]
+20:58:41.908924 memdb@flush committed F·1 T·148.302324ms
+20:58:41.911106 journal@remove removed @1
